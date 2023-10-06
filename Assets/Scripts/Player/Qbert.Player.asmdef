@@ -1,0 +1,16 @@
+{
+    "name": "Qbert.Player",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a459eb643d50b4a47b23feef3017327a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
